@@ -5,7 +5,7 @@ var Config = {};
  * What should the text in the center of the screen be?
  * if empty it will fill in your Server Name
  */
-Config.title = "Bienvenido a JaasoGMOD :D";
+Config.title = "JaasoGMOD! :D";
 
 /**
  * Enable map text in the top left corner of the screen?
@@ -37,7 +37,7 @@ Config.announceMessages = [
  * How many miliseconds for each announcement?
  * only works if enableAnnouncements = true
  */
-Config.announcementLength = 3000;
+Config.announcementLength = 10000;
 
 /**
  * Image Filename

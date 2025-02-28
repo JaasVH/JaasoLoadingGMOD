@@ -111,7 +111,7 @@ function loadAll() {
     debug("Checking if first time loading.. " + downloadingFileCalled);
     if (downloadingFileCalled) {
       announce(
-        "This is your first time joining this server! - Please wait for the files to download...",
+        "Esta es tu primera vez uniendote al servidor! - Porfavor espera a que se descargue todo...",
         true
       );
     }
